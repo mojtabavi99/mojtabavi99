@@ -9,8 +9,8 @@ I'm a passionate programmer currently serving in the military and looking for op
 - I’m also diving into data science and expanding my knowledge in this exciting field
 
 ## 📫 How to Reach Me
-- Email: m.mojtabavi@outlook.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/mahdi-mojtabavi)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.mojtabavi@oitlook.com)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahdi-mojtabavi)
 
 ## 🛠 Skills
 
@@ -21,7 +21,7 @@ I'm a passionate programmer currently serving in the military and looking for op
 
 ## 📈 GitHub Stats
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=mojtabav99&show_icons=true&theme=radical)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=mojtabavi99&show_icons=true&theme=radical)
 
 
 <!--
