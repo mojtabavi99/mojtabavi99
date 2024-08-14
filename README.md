@@ -14,13 +14,10 @@ I'm a passionate programmer currently serving in the military and looking for op
 
 ## 🛠 Skills
 
-- Languages:
 ![Python](https://img.shields.io/badge/Python-0A66C2?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-- Frameworks:
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-FAFAFA?style=for-the-badge&logo=flask&logoColor=001524)
+![Django](https://img.shields.io/badge/Django-105239?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-BDBDBD?style=for-the-badge&logo=flask&logoColor=001524)
 ![Laravel](https://img.shields.io/badge/Laravel-D14836?style=for-the-badge&logo=laravel&logoColor=white)
 
 
