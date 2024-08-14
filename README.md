@@ -19,13 +19,6 @@ I'm a passionate programmer currently serving in the military and looking for op
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 
-## 📈 GitHub Stats
-
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=mojtabavi99&show_icons=true&theme=radical)
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=mojtabavi99&theme=radical)
-
-
-
 <!--
 **mojtabavi99/mojtabavi99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -42,4 +35,9 @@ Here are some ideas to get you started:
 
 
 - Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
+
+## 📈 GitHub Stats
+
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=mojtabavi99&show_icons=true&theme=radical)
+
 -->
