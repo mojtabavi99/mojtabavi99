@@ -22,6 +22,8 @@ I'm a passionate programmer currently serving in the military and looking for op
 ## 📈 GitHub Stats
 
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=mojtabavi99&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mojtabavi99&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
