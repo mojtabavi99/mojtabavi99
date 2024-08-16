@@ -16,9 +16,6 @@ I'm a passionate programmer currently serving in the military and looking for op
 
 ![Python](https://img.shields.io/badge/Python-0A66C2?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Django](https://img.shields.io/badge/Django-105239?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-BDBDBD?style=for-the-badge&logo=flask&logoColor=001524)
-![Laravel](https://img.shields.io/badge/Laravel-D14836?style=for-the-badge&logo=laravel&logoColor=white)
 
 
 <!--
@@ -42,4 +39,8 @@ Here are some ideas to get you started:
 
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=mojtabavi99&show_icons=true&theme=radical)
 
+
+![Django](https://img.shields.io/badge/Django-105239?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-BDBDBD?style=for-the-badge&logo=flask&logoColor=001524)
+![Laravel](https://img.shields.io/badge/Laravel-D14836?style=for-the-badge&logo=laravel&logoColor=white)
 -->
