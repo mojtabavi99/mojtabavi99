@@ -13,17 +13,18 @@ I'm a passionate programmer looking for opportunities to grow my skills.
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahdi-mojtabavi)
 
 ## 🛠 Skills
-![Python](https://img.shields.io/badge/-Python-0A66C2?style=flat&logo=Python&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=PHP&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0A66C2?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 
 
 <!--
 **mojtabavi99/mojtabavi99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![Python](https://img.shields.io/badge/-Python-0A66C2?style=flat&logo=Python&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=PHP&logoColor=white)
+
 Here are some ideas to get you started:
-![Python](https://img.shields.io/badge/Python-0A66C2?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
