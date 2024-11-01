@@ -8,7 +8,7 @@ I'm a passionate programmer looking for opportunities to grow my skills.
 - I’m currently improving my web development skills.
 
 ## 📫 How to Reach Me
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.mojtabavi@oitlook.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.mojtabavi@outlook.com)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahdi-mojtabavi)
 
 ## 🛠 Skills
