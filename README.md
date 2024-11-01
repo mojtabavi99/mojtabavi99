@@ -6,7 +6,6 @@ I'm a passionate programmer looking for opportunities to grow my skills.
 ## 🌱 What I'm Working On
 
 - I’m currently improving my web development skills.
-- I’m also diving into data science and expanding my knowledge in this exciting field
 
 ## 📫 How to Reach Me
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.mojtabavi@oitlook.com)
