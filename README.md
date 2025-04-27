@@ -1,6 +1,6 @@
 
 ## Hello, I'm Mahdi 👋
-I'm a passionate programmer looking for opportunities to grow my skills.
+I'm a passionate developer looking for opportunities to grow my skills.
 
 
 ## 🌱 What I'm Working On
